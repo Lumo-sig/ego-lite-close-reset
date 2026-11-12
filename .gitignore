@@ -1,0 +1,3 @@
+*.dll
+guard.log
+guard-request.json
